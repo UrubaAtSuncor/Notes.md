@@ -13,3 +13,6 @@ FROM orders
 GROUP BY week, prod_id, region
 ```
 
+### Aggregate vs Non-Aggregate Meaning
+
+
